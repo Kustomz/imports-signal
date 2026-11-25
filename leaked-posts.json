@@ -14,7 +14,14 @@
     "# \ud83c\udfc6 90S Duality 2 (db 35439)\n\n**Moved:** 2027-03-20 10:00:00 GMT \u2192 2026-12-03 10:00:00 GMT (ends 2026-12-10 10:00:00 GMT, was 2027-03-27 10:00:00 GMT).\n\n8 data change(s) in the event config in total.\n\nStaged on the CDN \u2014 not a store release. No date is promised."
    ],
    "images": []
+  },
+  {
+   "key": "library-35391-35439-cameras",
+   "parts": [
+    "# \ud83d\ude97 Future Cars \u2014 Library Moves (db 35439) \u2014 follow-up\n\n**17 car(s) lost their camera entries** (a library scrub \u2014 the libraries oscillate; a scrub is not a cancellation):\n\n```\nAudi_RS5Touring_2026\nChevrolet_CorvetteC8ZR1SS_2024\nChevrolet_CorvetteGrandSportF5_1966\nChevrolet_HotWheelsCorvetteC3_1968\nChevrolet_HotWheelsElCamino_1971\nChevrolet_WeaverCustoms3100_1956\nDodge_ChargerSuperBee_2027\nFord_HotWheelsMustangGT_2005\nHotWheels_BoneShaker_2011\nHotWheels_DeoraII_2003\nHotWheels_TwinMill_2001\nLamborghini_FenomenoRoadster_2027\nLamborghini_GallardoSuperleggera_2011\nMaserati_GranTurismoTrofeo_2023\nPontiac_NHRFirebird_1970\nPorsche_911FlachbauRS_2026\nPorsche_911GT3SC_2027\n```\n\nStaged on the CDN \u2014 not a store release. No date is promised."
+   ],
+   "images": []
   }
  ],
- "updated": "2026-11-25T18:06:47Z"
+ "updated": "2026-11-25T18:07:51Z"
 }
