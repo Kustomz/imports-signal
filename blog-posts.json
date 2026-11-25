@@ -1,0 +1,67 @@
+{
+ "kind": "csr2-blog-posts",
+ "updated": "2026-11-25T17:12:09Z",
+ "posts": [
+  {
+   "key": "6-9-0-blog-update",
+   "slug": "6-9-0-blog-update",
+   "url": "https://www.csr-racing.com/news/6-9-0-blog-update",
+   "title": "CSR2 6.9.0 Blog Update",
+   "intro": "From festive street sprints to pure six-cylinder muscle, CSR2 6.9.0 keeps the throttle pinned from start to finish. Take on The Holiday Pursuit, outrun the pack in Skyborne Sprint, and prove your worth across Forged Fury and SIX: Brawn. Round it out by pushing through Crew\u2019s Code Chapter V and chasing down a Porsche 911 legend in Flachbau Legacy. Shift fast. Leave nothing behind.",
+   "sections": [
+    {
+     "heading": "THE HOLIDAY PURSUIT",
+     "dates": "22nd December - 31st December",
+     "free_car": "LB Lamborghini Aventador Coup\u00e9",
+     "prize_car": "Nilu27 NILU SUMAC",
+     "lock_ins": "LB Lamborghini Aventador Coup\u00e9, LB Silhouette Mazda RX-7, ABT Audi RS7-R \"Daniel Abt Edition\", Zenvo Aurora Tur, Aston Martin DBR22",
+     "flavor": "Bring some of the finest machines to master the city\u2019s holiday races. Overcome every rival, claim the exclusive Nilu27 NILU SUMAC, and finish all 100 races in style!"
+    },
+    {
+     "heading": "SKYBORNE SPRINT",
+     "dates": "24th December - 31st December",
+     "free_car": "Dodge Challenger SRT\u00ae Hellcat",
+     "prize_car": "Czinger 21C HDF",
+     "lock_ins": "Porsche 718 Boxster S, 2017 Honda Civic Type R, Lotus Exige LF1, Ark Performance Hyundai Veloster, Alpine A110, 2014 BMW M235i Coup\u00e9, Ford F-150 SVT Raptor, Audi RS 5 Coup\u00e9, LB Dodge Challenger SRT\u00ae Hellcat, Dodge Challenger SRT\u00ae Hellcat, Hyundai ELANTRA N, Volkswagen Golf GTI Rocket Bunny, Mini John Cooper Works GP, Pandem Mazda MX-5 Miata",
+     "flavor": "Embrace the thrill of the elements and relentless velocity in SKYBORNE SPRINT and win the breathtaking Czinger 21C HDF!"
+    },
+    {
+     "heading": "FORGED FURY",
+     "dates": "30th December - 6th January",
+     "prize_car": "Weaver Customs Chevrolet Pick-Up 3100 'The One'",
+     "lock_ins": "Plymouth Barracuda \"TorC\" Weaver Customs, Weaver Customs Chevrolet Camaro \u2018Bank Roll\u2019",
+     "flavor": "Only the best walk away with the prize. Prove your worth in FORGED FURY! \u2014--------------------"
+    },
+    {
+     "heading": "SIX: BRAWN",
+     "dates": "16th January - 24th January",
+     "prize_car": "Dodge Charger Super Bee",
+     "lock_ins": "Dodge Charger Scat Pack, Buick GNX",
+     "flavor": "Six cylinders, zero mercy. Have you got what it takes to claim the Dodge Charger Super Bee?"
+    },
+    {
+     "heading": "CREW'S CODE: CHALLENGER'S RUN V",
+     "dates": "23rd January - 5th February",
+     "free_car": "Han's Toyota GR Supra",
+     "prize_car": "Dom Toretto's Dodge Charger R/T 'Tantrum'",
+     "lock_ins": "Han's Toyota GR Supra, Tej's Mercedes-AMG GT S, Suki's Veilside Honda S2000"
+    },
+    {
+     "heading": "CREW'S CODE : CHAPTER V: UNSTOPPABLE + VICTORY LAP V",
+     "dates": "25th January - 4th February",
+     "prize_car": "Roman's Pontiac Fiero",
+     "lock_ins": "Dom Toretto's Dodge Charger R/T 'Tantrum', Deckard Shaw's Jaguar F-TYPE, Owen Shaw's Flip Car, Brian's C-WEST Nissan Skyline GT-R (BNR34), Magdalene Shaw's Noble M600, Dom Toretto's 1970 Dodge Charger R/T , Reyes' Chevrolet Corvette Grand Sport"
+    },
+    {
+     "heading": "FLACHBAU LEGACY",
+     "dates": "3rd February - 10th February",
+     "prize_car": "Porsche 911 Flachbau RS (991.2)",
+     "lock_ins": "Porsche 911 S/T (992), Porsche 911 Turbo 3.3 Cabriolet \"Flachbau\" (930)",
+     "flavor": "Two eras of 911 clash for one prize - the Porsche 911 Flachbau RS (991.2). The slant-nose legend, reborn."
+    }
+   ],
+   "inaugural": true,
+   "detected": "2026-11-25T17:12:09Z"
+  }
+ ]
+}
