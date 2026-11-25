@@ -1,0 +1,28 @@
+{
+ "kind": "csr2-drive-release-sets",
+ "updated": "2026-11-25T16:30:15Z",
+ "sets": [
+  {
+   "key": "690-6905206",
+   "folder": "690",
+   "version": "6.9.0",
+   "build": "6905206",
+   "inaugural": true,
+   "detected": "2026-11-25T16:30:15Z",
+   "pieces": {
+    "base_apk": {
+     "name": "base.apk",
+     "size": 96350561
+    },
+    "main_obb": {
+     "name": "main.6905206.com.naturalmotion.customstreetracer2.obb",
+     "size": 939421234
+    },
+    "patch_obb": {
+     "name": "patch.6905206.com.naturalmotion.customstreetracer2.obb",
+     "size": 441997253
+    }
+   }
+  }
+ ]
+}
