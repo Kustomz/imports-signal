@@ -1,6 +1,6 @@
 {
  "kind": "csr2-drive-release-sets",
- "updated": "2026-11-25T16:34:31Z",
+ "updated": "2026-11-25T16:46:44Z",
  "sets": [
   {
    "key": "690-6905206",
@@ -12,15 +12,18 @@
    "pieces": {
     "base_apk": {
      "name": "base.apk",
-     "size": 96350561
+     "size": 96350561,
+     "link": "https://drive.google.com/file/d/1MUmMabrZ-DUf1Wvs9snaYgLK3p9-FHkH/view"
     },
     "main_obb": {
      "name": "main.6905206.com.naturalmotion.customstreetracer2.obb",
-     "size": 939421234
+     "size": 939421234,
+     "link": "https://drive.google.com/file/d/1VPuR9FTLW4bgBRafTbgUcFb_jv7391Q-/view"
     },
     "patch_obb": {
      "name": "patch.6905206.com.naturalmotion.customstreetracer2.obb",
-     "size": 441997253
+     "size": 441997253,
+     "link": "https://drive.google.com/file/d/1GhjVcfRlCohet0nUR-2zLr4arjK0clRo/view"
     }
    }
   }
