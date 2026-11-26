@@ -1,20 +1,4 @@
 {
   "kind": "csr2-schedule-posts",
-  "posts": [
-    {
-      "key": "season-272-v2",
-      "text": "**Season 272**: November 19, 2026 – December 03, 2026\n\n• PC: Bentley Supersports\n`Bentley_SupersportsRewardRecycled_2026`\n• MS: Zacoe Lamborghini Temerario\n`Lamborghini_ZacoeTemerarioRewardRecycled_2024`",
-      "image": "images/season-272.png"
-    },
-    {
-      "key": "season-273-v2",
-      "text": "**Season 273**: December 03, 2026 – December 17, 2026\n\n• PC: Audi RS 3 Sportback performance edition\n`Audi_RS3SportbackRewardRecycled_2023`\n• MS: Ram 1500 SRT® TRX\n`RAM_SRT1500TRXRewardRecycled_2026`",
-      "image": "images/season-273.png"
-    },
-    {
-      "key": "season-274-v2",
-      "text": "**Season 274**: December 17, 2026 – December 31, 2026\n\n• PC: Varis Honda S2000 'Dark Panther'\n`Honda_VarisS2000RewardRecycled_2005`\n• MS: Pagani Utopia Roadster\n`Pagani_UtopiaRoadsterRewardRecycled_2024`",
-      "image": "images/season-274.png"
-    }
-  ]
+  "posts": []
 }
