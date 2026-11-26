@@ -1,0 +1,15 @@
+{
+  "kind": "csr2-schedule-posts",
+  "posts": [
+    {
+      "key": "season-273",
+      "text": "Season 273 — December 03, 2026 – December 17, 2026",
+      "image": "images/season-273.png"
+    },
+    {
+      "key": "season-274",
+      "text": "Season 274 — December 17, 2026 – December 31, 2026",
+      "image": "images/season-274.png"
+    }
+  ]
+}
