@@ -1,24 +1,4 @@
 {
   "kind": "csr2-schedule-posts",
-  "posts": [
-    {
-      "key": "season-273",
-      "text": "Season 273 — December 03, 2026 – December 17, 2026",
-      "image": "images/season-273.png"
-    },
-    {
-      "key": "season-274",
-      "text": "Season 274 — December 17, 2026 – December 31, 2026",
-      "image": "images/season-274.png"
-    },
-    {
-      "key": "season-272",
-      "text": "**Season 272**: November 19, 2026 – December 03, 2026\n\n• PC: Bentley Supersports\n`Bentley_SupersportsRewardRecycled_2026`\n• MS: Zacoe Lamborghini Temerario\n`Lamborghini_ZacoeTemerarioRewardRecycled_2024`"
-    },
-    {
-      "key": "season-272-poster",
-      "text": "**Season 272**: November 19, 2026 – December 03, 2026\n\n• PC: Bentley Supersports\n`Bentley_SupersportsRewardRecycled_2026`\n• MS: Zacoe Lamborghini Temerario\n`Lamborghini_ZacoeTemerarioRewardRecycled_2024`",
-      "image": "images/season-272.png"
-    }
-  ]
+  "posts": []
 }
